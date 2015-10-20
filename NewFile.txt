@@ -8,3 +8,6 @@ OK, I want to keep this file from BranchTrial, and then merge this text back wit
 Done! I haven't deleted BranchTrial though....
 
 Let's see if we can deal with conflicting changes!
+
+Can we do it?  Can we?  I'm gonna be optimistic and say YES!
+
