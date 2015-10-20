@@ -1,5 +1,4 @@
 This is a new file that I'd like to add to my online repository.
-
 OK, now I'm making changes to this file online.
 
 Now I am adding some more text, and I'm going to try and branch the file (or repository?? Not sure how this works...)
@@ -7,3 +6,5 @@ Now I am adding some more text, and I'm going to try and branch the file (or rep
 OK, I want to keep this file from BranchTrial, and then merge this text back with the master.
 
 Done! I haven't deleted BranchTrial though....
+
+Let's see if we can deal with conflicting changes!
