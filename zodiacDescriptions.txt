@@ -11,3 +11,4 @@ Snake
 Horse
 Goat
 Sloth
+Whale
