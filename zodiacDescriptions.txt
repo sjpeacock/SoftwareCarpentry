@@ -10,3 +10,4 @@ Dragon
 Snake
 Horse
 Goat
+Sloth
