@@ -7,3 +7,5 @@ Now I am adding some more text, and I'm going to try and branch the file (or rep
 OK, I want to keep this file from BranchTrial, and then merge this text back with the master.
 
 Done! I haven't deleted BranchTrial though....
+
+Can we do it?  Can we?  I'm gonna be optimistic and say YES!
